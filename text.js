@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-page-1777396292439-uelmepfcr">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v4.0.0-rc3">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<title>10. Guía didáctica | Exploramos los paisajes de España</title>
+<link rel="icon" type="image/x-icon" href="../libs/favicon.ico">
+<meta name="description" content="Situación de aprendizaje para 4º de Primaria sobre los paisajes de España.
+Palabras clave: paisajes, primaria, competencia digital, Canva, investigación.">
+<script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
+<script src="../idevices/text/text.js"></script><link rel="stylesheet" href="../idevices/text/text.css">
+<link rel="stylesheet" href="../content/css/base.css"><script src="../theme/style.js"> </script><link rel="stylesheet" href="../theme/style.css">
+</head>
+<body class="exe-export exe-web-site">
+<script>document.body.className+=" js"</script>
+<div class="exe-content exe-export pre-js siteNav-hidden"><a href="#page-1777396292439-uelmepfcr" id="skipNav">Skip to content</a> <nav id="siteNav">
+<ul>
+<li> <a href="../index.html" class="main-node no-ch">1. Inicio</a>
+</li>
+<li> <a href="../html/2-presentacion-del-proyecto.html" class="no-ch">2. Presentación del proyecto</a>
+</li>
+<li> <a href="../html/3-producto-final.html" class="no-ch">3. Producto final</a>
+</li>
+<li> <a href="../html/4-seguridad-del-proyecto.html" class="no-ch">4. Seguridad del proyecto</a>
+</li>
+<li> <a href="../html/5-recursos-para-el-alumnado.html" class="no-ch">5. Recursos para el alumnado</a>
+</li>
+<li> <a href="../html/6-herramientas-para-el-docente.html" class="no-ch">6. Herramientas para el docente</a>
+</li>
+<li> <a href="../html/7-linea-del-tiempo.html" class="no-ch">7. Línea del tiempo</a>
+</li>
+<li> <a href="../html/8-tareas-y-criterios-de-evaluacion.html" class="no-ch">8. Tareas y criterios de evaluación</a>
+</li>
+<li> <a href="../html/9-instrumentos-de-evaluacion.html" class="no-ch">9. Instrumentos de evaluación</a>
+</li>
+<li class="active"> <a href="../html/10-guia-didactica.html" class="active no-ch">10. Guía didáctica</a>
+</li>
+<li> <a href="../html/11-creditos-y-descarga.html" class="no-ch">11. Créditos y descarga</a>
+</li>
+</ul>
+</nav><main id="page-1777396292439-uelmepfcr" class="page"> 
+<header class="main-header">
+<div class="package-header"><p class="package-title">Exploramos los paisajes de España</p></div>
+<div class="page-header"><h1 class="page-title">10. Guía didáctica</h1></div>
+</header><div id="page-content-page-1777396292439-uelmepfcr" class="page-content">
+<article id="block-1777400909315-m5q2wb99k" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Tabla de tareas y criterios de evaluación</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1777400909314-e1zsnjjuz" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1777400909314-e1zsnjjuz&quot;}">
+<div class="exe-text-template">
+    <p>Esta situación de aprendizaje está dirigida al alumnado de 4º de Educación Primaria. Su finalidad es que el alumnado conozca los paisajes de España mediante la investigación guiada, el trabajo cooperativo y la creación de una presentación digital.</p>
+<p>Tabla de tareas y criterios de evaluación.</p>
+<p><a href="https://docs.google.com/document/d/1OClllMJ7D1GG3pEe9TidovxFiQ--bcjR/edit?usp=sharing&amp;ouid=113186493125894564065&amp;rtpof=true&amp;sd=true" title="">https://docs.google.com/document/d/1OClllMJ7D1GG3pEe9TidovxFiQ--bcjR/edit?usp=sharing&amp;ouid=113186493125894564065&amp;rtpof=true&amp;sd=true</a></p>
+<p><strong>Recomendaciones para el profesorado:</strong></p>
+<p>Organizar grupos heterogéneos.<br />Proporcionar recursos previamente seleccionados.<br />Usar guías paso a paso para facilitar la autonomía digital.<br />Aplicar medidas DUA: apoyos visuales, instrucciones claras, trabajo cooperativo y diferentes formas de expresión.<br />Recordar normas de seguridad digital antes de comenzar.<br />Prever alternativas analógicas si falla la tecnología.</p>
+</div>
+</div>
+</div>
+</article>
+</div></main><div class="nav-buttons">
+<a href="../html/9-instrumentos-de-evaluacion.html" title="Anterior" class="nav-button nav-button-left"><span>Anterior</span></a>
+<a href="../html/11-creditos-y-descarga.html" title="Siguiente" class="nav-button nav-button-right"><span>Siguiente</span></a>
+</div>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-sa"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-sa/4.0/" class="license">Creative Commons: Reconocimiento - compartir igual 4.0</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+</body>
+</html>
